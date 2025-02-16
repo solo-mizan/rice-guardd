@@ -71,7 +71,7 @@ export default function Home() {
             Join farmers worldwide using our 96% accurate disease detection technology.
           </p>
           <Button asChild size="lg" className="bg-white text-green-700 hover:bg-green-100 w-full max-w-xs">
-            <Link href="#" className="inline-flex items-center justify-center">
+            <Link href="/login" className="inline-flex items-center justify-center">
               Get RiceGuard Now
               <ArrowRight className="ml-2 w-5 h-5" />
             </Link>
